@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "daisyui": "^2.50.0",
+    "flowbite": "^1.6.3"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.2.4"
+  }
+}
